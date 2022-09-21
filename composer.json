@@ -1,9 +1,8 @@
 {
-    "name": "codegenixuk/InfiniteScrollMeta",
-    "description": "Magento 2: Infinite Scroll",
-    "version": "1.0.1",
+    "name": "codegenixuk/infinite-scroll-meta",
+    "description": "Codegenix: Infinite Scroll Extension Bundle",
     "type": "metapackage",
-    "license": "GPL-3.0",
+    "license": "GPL-3.0-only",
     "authors": [
         {
             "name": "Codegenixuk Uk",
@@ -11,8 +10,6 @@
         }
     ],
     "require": {
-        "codegenixuk/Base": "1.0.1",
-        "codegenixuk/InfiniteScroll": "1.0.1"
+        "codegenixuk/infinite-scroll": "^1.0.0"
     }
 }
-
